@@ -1,3 +1,5 @@
+#10.Create a Pandas DataFrame with 3 columns and 5 rows filled with random integers. Apply a function that doubles the values of the DataFrame
+
 import pandas as pd
 import numpy as np
 
