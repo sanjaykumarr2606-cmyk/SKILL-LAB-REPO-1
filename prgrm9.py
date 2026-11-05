@@ -1,3 +1,5 @@
+#9. Create a Pandas DataFrame with MultiIndex consisting of 'Category' and 'SubCategory'. Fill the DataFrame with random data and compute the sum of values for each 'Category' and 'SubCategory'.
+
 import pandas as pd
 import numpy as np
 
