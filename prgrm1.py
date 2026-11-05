@@ -1,3 +1,6 @@
+#1. Create a Pandas DataFrame with 3 columns and 5 rows filled with random integers. Add a new column that is the product of the first two columns.
+
+
 import pandas as pd
 import numpy as np
 
