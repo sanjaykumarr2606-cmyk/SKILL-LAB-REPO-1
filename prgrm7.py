@@ -1,3 +1,5 @@
+#7. Merging DataFrames Create two Pandas DataFrames with a common column. Merge the DataFrames using the common column.
+
 import pandas as pd
 
 df1 = pd.DataFrame({
