@@ -1,3 +1,5 @@
+#2. Create a Pandas DataFrame with 3 columns and 4 rows filled with random integers. Compute the row-wise and column-wise sum.
+
 import pandas as pd
 import numpy as np
 
