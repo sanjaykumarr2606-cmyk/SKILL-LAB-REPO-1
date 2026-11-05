@@ -1,3 +1,5 @@
+#4. Create a Pandas DataFrame with 4 columns and 6 rows filled with random integers. Introduce some NaN values. Drop the rows with any NaN values
+
 import pandas as pd
 import numpy as np
 
