@@ -1,3 +1,5 @@
+#8. MultiIndex DataFrame Create a Pandas DataFrame with a MultiIndex (hierarchical index). Perform some basic indexing and slicing operations on the MultiIndex DataFrame.
+
 import pandas as pd
 
 index = pd.MultiIndex.from_tuples([
