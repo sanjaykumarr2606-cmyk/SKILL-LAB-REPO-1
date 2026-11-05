@@ -1,3 +1,5 @@
+#11. Create a Pandas DataFrame with 3 columns and 6 rows filled with random integers. Apply a lambda function to create a new column that is the sum of the existing columns.
+
 import pandas as pd
 import numpy as np
 
